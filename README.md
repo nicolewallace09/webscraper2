@@ -1,7 +1,7 @@
-# Craigslist webscraper from front page + within url 
+# Webscraper from front page + within url 
 
 ## Description 
-A script written to webscrap information from SF Bay Area job listings from Craiglist then within that listing's url. Data from webscrapping is then exported to a CSV file. 
+A script written to webscrap information from SF Bay Area job listings from Craiglist then within that listing's url and IMDB's top 100 movies to then get director, img, and plot information. Data from webscrapping is then exported to a CSV file. 
 
 ## Table of Contents
 * [Installation](#installation)
